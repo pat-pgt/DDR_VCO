@@ -1,0 +1,40 @@
+[*]
+[*] GTKWave Analyzer v3.3.111 (w)1999-2020 BSI
+[*] Sun Oct 27 10:51:48 2024
+[*]
+[dumpfile] "/mnt/ramfs/DDR.wav"
+[dumpfile_mtime] "Sun Oct 27 10:33:10 2024"
+[dumpfile_size] 5443129
+[savefile] "/home/patrick/exos_electronique/DDR_VCO/DDR_VCO.sav"
+[timestart] 142336000000
+[size] 1890 767
+[pos] -1 -1
+*-29.933878 142966000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ddr_vco_test.
+[sst_width] 200
+[signals_width] 237
+[sst_expanded] 1
+[sst_vpaned_height] 210
+@200
+-TEST signals
+@28
+ddr_vco_test.clk
+@22
+ddr_vco_test.main_counter[15:0]
+@28
+ddr_vco_test.ref_clk
+@200
+-Dut output
+@28
+ddr_vco_test.out_clk
+@200
+-DUT signals
+@28
+ddr_vco_test.dut.q1
+ddr_vco_test.dut.q2
+ddr_vco_test.dut.reset_requested
+ddr_vco_test.dut.clk_from_q1
+@29
+ddr_vco_test.dut.clk_from_q2
+[pattern_trace] 1
+[pattern_trace] 0
