@@ -1,0 +1,5 @@
+This folder contains the VHDL file and its test code.
+
+There are two waves files for illustration only: a screen copy of my GtkWave and its template file.
+
+Some demonstrations of the synthesis on LP384 SG32 QFN are planned.
